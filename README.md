@@ -1,0 +1,1 @@
+este pequeno projeto foi criado apenas para ilustrar uma conexão PDO de forma simples
