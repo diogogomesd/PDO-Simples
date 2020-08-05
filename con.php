@@ -14,7 +14,7 @@
     //função chamada para conexão
     try{
         $pdo = new PDO($con, $user, $pass);
-        echo "ok";
+        
     }
     //função chamada se der erro na conexão ao banco de dados
     catch(PDOExeception $e){
